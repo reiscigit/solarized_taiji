@@ -1,0 +1,42 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Solarized Taiji",
+  "theme": {
+    "colors": {
+      "bookmark_text": "#002B36",
+      "button_background_active": "#EEE8D5",
+      "icons_attention": "#D33682",
+      "frame": "#073642",
+      "ntp_background": "#FDF6E3",
+      "ntp_text": "#002B36",
+      "popup": "#FDF6E3",
+      "popup_border": "#93A1A1",
+      "popup_highlight": "#D33682",
+      "popup_highlight_text": "#FDF6E3",
+      "popup_text": "#002B36",
+      "sidebar": "#FDF6E3",
+      "sidebar_border": "#93A1A1",
+      "sidebar_highlight": "#D33682",
+      "sidebar_highlight_text": "#FDF6E3",
+      "sidebar_text": "#002B36",
+      "tab_background_separator": "#839496",
+      "tab_background_text": "#FDF6E3",
+      "tab_line": "#FDF6E3",
+      "tab_loading": "#D33682",
+      "toolbar": "#FDF6E3",
+      "toolbar_bottom_separator": "#93A1A1",
+      "toolbar_field": "#FDF6E3",
+      "toolbar_field_border": "#93A1A1",
+      "toolbar_field_border_focus": "#D33682",
+      "toolbar_field_focus": "#FDF6E3",
+      "toolbar_field_highlight": "#D33682",
+      "toolbar_field_highlight_text": "#FDF6E3",
+      "toolbar_field_separator": "#839496",
+      "toolbar_field_text": "#002B36",
+      "toolbar_field_text_focus": "#002B36",
+      "toolbar_top_separator": "#002B36",
+      "toolbar_vertical_separator": "#839496"
+    }
+  }
+}
