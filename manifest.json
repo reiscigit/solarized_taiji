@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "version": "0.1",
+  "version": "0.3",
   "name": "Solarized Taiji",
   "theme": {
     "colors": {
       "bookmark_text": "#002B36",
-      "button_background_active": "#EEE8D5",
+      "button_background_active": "#2AA19860",
       "icons_attention": "#D33682",
       "frame": "#073642",
       "ntp_background": "#FDF6E3",
